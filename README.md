@@ -6,6 +6,10 @@ We implemented **regression** for continuous AQI values and **classification** t
 
 ---
 
+🎥 **Presentation (PPTX)**: [View PPT](https://docs.google.com/presentation/d/18nMu6oXdZnBGCBwx7keWAVUtvaOAxCyO/edit?usp=sharing&ouid=101301702383994895963&rtpof=true&sd=true
+
+---
+
 ## 📊 Dataset Details  
 - **Dataset Name**: Air Quality Analysis of Delhi  
 - **Source**: [Kaggle – Air Quality Analysis of Delhi](https://www.kaggle.com/code/yashvi/air-quality-analysis-of-delhi/input)  
