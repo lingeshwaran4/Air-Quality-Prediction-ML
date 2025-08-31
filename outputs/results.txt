@@ -1,0 +1,15 @@
+# Air Quality Prediction - Final Results
+
+Regression (AQI Value Prediction):
+----------------------------------
+• Linear Regression (R²): 0.78
+• Random Forest Regressor (R²): 0.91
+
+Classification (AQI Bucket Prediction):
+---------------------------------------
+• Random Forest Classifier (Accuracy): 0.87
+
+Notes:
+• Random Forest models outperform baseline Linear Regression.
+• PM2.5 and PM10 are key predictors.
+• Misclassifications mostly occur between adjacent AQI categories.
