@@ -82,5 +82,8 @@ We built an **ML-powered prediction model** that:
 Air-Quality-Prediction-ML/
 │── AirQualityPrediction.ipynb # Jupyter Notebook (data cleaning, modeling, visualization)
 │── results.txt # Saved output (metrics & predictions)
-│── README.md # Project documentation (this file)
+│── README.md # Project documentation
+│── LICENSE # License file
+│── requirements.txt # Dependencies
 │── images/ # Visualizations (graphs, plots, charts)
+│── data/ # Raw & processed datasets
